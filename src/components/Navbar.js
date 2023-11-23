@@ -23,7 +23,7 @@ function Navbar() {
                         alt="Flowbite Logo"
                     />
                     <span className="self-center font-extrabold text-2xl  whitespace-nowrap dark:text-white">
-                        Portfolio
+                        Portfolio 1
                     </span>
                 </a>
                 <button

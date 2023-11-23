@@ -7,7 +7,7 @@ import Bodysec from '../components/Body';
 const Home = () => {
     return (
         <div className='m-0 '>
-            <div className='m-7'> < Navbar /></div>
+            <div className=''> < Navbar /></div>
             <Bodysec />
             <Footer />
         </div>
